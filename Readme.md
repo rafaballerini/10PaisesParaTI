@@ -1,5 +1,7 @@
 # Top 10 países que buscam pessoas da área de programação para trabalhar por lá
 
+[Nesse vídeo]() falarei sobre os principais países que buscam pessoas que trabalham na área de tecnologia e suas principais oportunidades.
+
 ## No Brasil
 
 Segundo a Brasscom, 70 mil profissionais serão demandados ao ano até 2024 para atender a demandas do setor de software e serviços. Porém, 46 mil profissionais na área de tecnologia se formam por ano. Assim, anualmente, existe um déficit de 24 mil especialistas. 
