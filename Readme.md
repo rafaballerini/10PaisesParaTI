@@ -1,6 +1,6 @@
 # Top 10 países que buscam pessoas da área de programação para trabalhar por lá
 
-[Nesse vídeo]() falarei sobre os principais países que buscam pessoas que trabalham na área de tecnologia e suas principais oportunidades.
+[Nesse vídeo](https://youtu.be/lqtPC2q4we0) falarei sobre os principais países que buscam pessoas que trabalham na área de tecnologia e suas principais oportunidades.
 
 ## No Brasil
 
